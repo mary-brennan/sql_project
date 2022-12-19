@@ -1,5 +1,7 @@
 # sql_project
 HOSPITAL DATABASE
+
+
 The database is created with PostgreSql and the user interface attached to it is created using Linux Bash.
 This database only works for Sierra College Students & Staff who have the proper credentials
 
