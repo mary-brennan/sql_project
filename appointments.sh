@@ -3,7 +3,6 @@ read -p "enter username " un
 counter=1
 while [ $counter != 0 ]
 do
-un='mbrennan4'
 echo "enter 1 to view upcoming appointments"
 echo "enter 2 to schedule an appointmnet"
 echo "enter 3 to cancel an appointment"
